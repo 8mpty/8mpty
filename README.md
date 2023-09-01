@@ -7,6 +7,6 @@
 </a>
 
 <h1 align="center"> Current Projects </h1>
-<a href="https://github.com/8mpty/8mpty">
+<a href="https://github.com/8mpty/Windows_Post_Install_BATCH">
   <img height=150 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=8mpty&repo=Windows_Post_Install_Batch&theme=radical" />
 </a>

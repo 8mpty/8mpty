@@ -1,8 +1,8 @@
 <h1 align="center"> Stats </h1>
-<a href="https://github.com/8mpty/main/README.md" width="100%">
+<a href="https://github.com/8mpty/8mpty" width="100%">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=8mpty&show_icons=true&theme=radical&include_all_commits=true" />
 </a>
-<a href="https://github.com/8mpty/main/README.md">
+<a href="https://github.com/8mpty/8mpty">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8mpty&layout=donut&theme=radical&card_width=320" />
 </a>
 
